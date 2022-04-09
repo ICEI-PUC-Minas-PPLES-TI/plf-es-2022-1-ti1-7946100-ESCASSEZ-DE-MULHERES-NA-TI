@@ -15,8 +15,8 @@ O projeto tem como objetivo reunir mulheres profissionais de T.I e aquelas que p
 
 ## Professores responsáveis
 
+* Amália Soares Vieira de Vasconcelos
 * Rommel Vieira Carneiro
-* Nome completo do professor 2
 
 ## Instruções de utilização
 
