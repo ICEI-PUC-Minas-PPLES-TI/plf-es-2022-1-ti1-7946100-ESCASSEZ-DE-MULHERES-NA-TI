@@ -10,11 +10,17 @@ Engenharia de Software PUC Minas — 1º Período
 ## Participantes
 
 Augusto Fuscaldi Cerezo
+
 Bruna Barbosa Portilho Bernardes
+
 Camilla Regina da Cruz
+
 Giovanna Ferreira S. de Almeida
+
 Giovanna Viggiano Mafia de Souza
+
 João Pedro Oliveira Pauletti
+
 Tiago Vitor Pereira
 
 # Estrutura do Documento
