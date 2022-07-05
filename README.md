@@ -20,4 +20,4 @@ O projeto tem como objetivo reunir mulheres profissionais de TI e aquelas que po
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+O acesso e utilização da plataforma é realizada via internet. Não há necessidade de baixar dependências.
