@@ -9,7 +9,6 @@ O projeto tem como objetivo reunir mulheres profissionais de TI e aquelas que po
 * Bruna Barbosa Portilho Bernardes
 * Camilla Regina da Cruz
 * Giovanna Ferreira dos Santos de Almeida
-* Giovanna Viggiano Mafia de Souza
 * João Pedro de Oliveira Pauletti
 * Tiago Vitor Pereira Saraiva
 
