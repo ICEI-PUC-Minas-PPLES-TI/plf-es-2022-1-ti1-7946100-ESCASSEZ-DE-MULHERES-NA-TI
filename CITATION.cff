@@ -1,0 +1,31 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Escassez de Mulheres em TI
+authors:
+  - family-names: Fuscaldi Cerezo
+    given-names: Augusto
+  - family-names: Barbosa Portilho Bernardes
+    given-names: Bruna 
+  - family-names: Regina da Cruz
+    given-names: Camilla
+  - family-names: Ferreira dos Santos de Almeida
+    given-names: Giovanna 
+  - family-names: de Oliveira Pauletti
+    given-names: João Pedro
+  - family-names: Pereira Saraiva
+    given-names: Tiago Vitor 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Soares Vieira de Vasconcelos
+    given-names: Amália
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel
+keywords:
+  - mulheres
+  - tecnologia
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7946100-ESCASSEZ-DE-MULHERES-NA-TI
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14
